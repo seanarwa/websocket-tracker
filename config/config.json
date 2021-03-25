@@ -1,0 +1,7 @@
+{
+  "secure": false,
+  "clientCertificate": "",
+  "clientCertificatePfx": "",
+  "clientKey": "",
+  "clientKeyPassword": ""
+}

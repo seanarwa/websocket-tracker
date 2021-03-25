@@ -1,3 +1,6 @@
+# Project Specific
+/config/ssl/
+
 # Miscellaneous
 *.class
 *.log
