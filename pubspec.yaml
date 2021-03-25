@@ -12,6 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # GetX
+  get: ^3.26.0
+
   # Network Utilities
   socket_io_client: ^0.9.12
 
